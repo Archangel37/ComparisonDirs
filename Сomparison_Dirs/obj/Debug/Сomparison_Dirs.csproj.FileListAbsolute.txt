@@ -7,3 +7,12 @@ c:\users\sergeychi\documents\visual studio 2012\Projects\Сomparison_Dirs\Сompa
 c:\users\sergeychi\documents\visual studio 2012\Projects\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.csproj.GenerateResource.Cache
 c:\users\sergeychi\documents\visual studio 2012\Projects\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.exe
 c:\users\sergeychi\documents\visual studio 2012\Projects\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.pdb
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\bin\Debug\Сomparison_Dirs.exe.config
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.exe
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.pdb
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\bin\Debug\Сomparison_Dirs.exe
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\bin\Debug\Сomparison_Dirs.pdb
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.csprojResolveAssemblyReference.cache
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.Main_Form.resources
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.Properties.Resources.resources
+G:\C_Sharp\Сomparison_Dirs\Сomparison_Dirs\obj\Debug\Сomparison_Dirs.csproj.GenerateResource.Cache

@@ -146,7 +146,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "Main_Form";
-            this.Text = "Сравнение папок";
+            this.Text = "Comparison Directories";
             this.ResumeLayout(false);
             this.PerformLayout();
 
